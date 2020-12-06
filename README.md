@@ -7,34 +7,22 @@ Full-Stack Developer, Data-Science, and Machine Learning enthusiast. I'm really 
 
 ### **Languages And Tools**
 
-<img src="./react.svg" width=10 height=10> ReactJS
-<br>
-<img src="./angular.svg" width=10 height=10>
-Angular
-<br>
-<img src="./spring.svg" width=10 height=10>
-Spring-Boot
-<br>
-<img src="./nestjs.svg" width=10 height=10>
-NestJS
-<br>
-<img src="./jenkins.svg" width=10 height=10>
-Jenkins
-<br>
-<img src="./docker.svg" width=10 height=10>
-Docker
-<br>
-<img src="./flutter.svg" width=10 height=10>
-Flutter
-<br>
-<img src="./android.svg" width=10 height=10>
-Android (Kotlin)
-<br>
-<img src="./mongodb.svg" width=10 height=10>
-MongoDB
-<br>
-<img src="./mysql.svg" width=10 height=10>
-MySQL
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" alt="Unreal Engine" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+<img src="https://icon-icons.com/icons2/2107/PNG/64/file_type_nestjs_icon_130355.png" alt="NestJS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 ### **Social Accounts**
 
